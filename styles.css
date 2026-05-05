@@ -13,3 +13,9 @@ h1 {
 .pizza, .lasagna, .bolognese {
     font-size: 40px;
 }
+
+.lists {
+    text-align: left;
+    margin-left: 350px;
+}
+
